@@ -1,6 +1,4 @@
-# Heart-Disease-Prediction-using-ML
-
-<h1>❤️ Heart Disease Prediction using Machine Learning</h1>
+# <h1>❤️ Heart Disease Prediction using Machine Learning</h1>
 
 <h2>📌 Project Overview</h2>
 <p>
